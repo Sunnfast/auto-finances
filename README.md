@@ -3,6 +3,8 @@ Short script to push data from CSV files and insert into Google Sheets using the
 
 Ultimately, I accomplished the task of automating my finances a bit and also allowing me to get a bit more familiar with Python syntax in advance of the Python course I am starting in late August 2022. 
 
+Current version of the program has personal information redacted.
+
 Heavily inspired by: https://www.youtube.com/watch?v=IbdgcUqWSeo&t=815s
 
 
